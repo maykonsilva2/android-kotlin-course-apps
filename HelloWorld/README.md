@@ -1,8 +1,11 @@
 # AboutMe - Solution Code
 Solution code for the Linear Layout using Layout Editor codelab.
 
+
 ## Introduction
 The AboutMe app demonstrates how to work with LinearLayout using the Android Studio's Layout Editor. This app consists of a TextView to show text, an ImageView, and a ScrollView with scrollable text.
+
+![til](../AboutMeApp.gif)
 
 # Português BR
 # AboutMe - Código da solução
